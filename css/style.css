@@ -182,9 +182,10 @@ hr{
 main .site-title{
     background-image: url("../assets/Background-image.png");
     background-size:cover;
-    height:110%;
+    height:100%;
     display:flex;
     justify-content: center;
+    min-height:110vh;
 }
 
 
