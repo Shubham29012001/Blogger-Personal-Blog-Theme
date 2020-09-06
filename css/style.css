@@ -451,6 +451,16 @@ main .site-content .post-content .post-title .btn{
     main .site-content .sidebar{
         display:none;
     }
+   
+    .nav .toggle-collapse{
+        width:85%;
+    }
+
+    .nav .toggle-collapse .toggle-icons i{
+        position: relative;
+        bottom: 6px;
+        
+    }
 
 }
 
